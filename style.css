@@ -200,13 +200,14 @@
   
   .hahaha {
     color: #362b2b;
+    position: bottom;
     font-family: 'Bree Serif', serif;
     font-size: 15px auto;
     text-shadow: springgreen 50px;
-    border: 8px;
+    border:  white 4px;
     border-radius: 20%;
     text-align: center;
-    padding-top: 20%, auto;
+    padding-bottom: 20%, auto;
   
   
   }
