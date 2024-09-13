@@ -201,6 +201,8 @@
   .hahaha {
     color: #362b2b;
     position: bottom;
+    align-items: bottom;
+    justify-content: center; 
     font-family: 'Bree Serif', serif;
     font-size: 15px auto;
     text-shadow: springgreen 50px;
